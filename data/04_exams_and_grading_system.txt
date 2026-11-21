@@ -1,0 +1,43 @@
+---
+document_id: DOC-SCH-004
+title: Examination Framework, Assessment Pattern, and Promotion Rules
+category: Academics & Examinations
+department: Examination Cell
+academic_year: 2026-2027
+effective_date: 2026-04-01
+target_audience: Students, Parents, Teachers
+---
+
+# EXAMINATION FRAMEWORK, ASSESSMENT PATTERN, AND PROMOTION RULES
+
+## 1. Academic Calendar and Term Structure
+The academic year runs from April to March and is divided into two semesters:
+- **Term 1:** April to September (culminating in Half-Yearly Examinations in September).
+- **Term 2:** October to March (culminating in Annual Examinations in February/March).
+
+## 2. Assessment Weightage (Grades 6 to 10)
+Each term carries 100 marks per subject, distributed as follows:
+- **Periodic Assessment (20 Marks):** Best two out of three Periodic Tests (10 marks), Notebook Submission & Maintenance (5 marks), and Subject Enrichment / Lab Activity (5 marks).
+- **Term-End Written Examination (80 Marks):** Comprehensive 3-hour written exam covering the prescribed term syllabus.
+
+## 3. Assessment Weightage (Senior Secondary – Grades 11 & 12)
+- **Subjects with Practicals (Physics, Chemistry, Biology, Computer Science, Physical Education):** 70 Marks Theory + 30 Marks Practical & Viva Voce.
+- **Subjects with Project Work (Mathematics, Accountancy, Economics, Business Studies, History, Political Science):** 80 Marks Theory + 20 Marks Internal Project Assessment.
+
+## 4. Passing and Promotion Criteria
+- To pass a subject, a student must secure a minimum of **33% marks overall**, as well as **33% separately in both Theory and Practical/Internal assessments**.
+- **Compartment / Re-test Policy:** Students failing in up to two subjects in the Annual Examination are eligible to appear for a Compartment Examination held within 15 days of result declaration. Students failing in three or more subjects will be detained in the same grade.
+
+## 5. 8-Point Scholastic Grading Scale
+- **A1 (91% – 100%):** Outstanding
+- **A2 (81% – 90%):** Excellent
+- **B1 (71% – 80%):** Very Good
+- **B2 (61% – 70%):** Good
+- **C1 (51% – 60%):** Above Average
+- **C2 (41% – 50%):** Average
+- **D (33% – 40%):** Marginal (Pass)
+- **E (Below 33%):** Essential Repeat / Needs Improvement
+
+## 6. Examination Conduct and Unfair Means
+- Electronic calculators, mobile phones, smartwatches, and written notes are strictly barred inside the examination hall.
+- Any student caught using unfair means will have their answer script canceled immediately and will be awarded zero marks in that subject.

@@ -1,0 +1,43 @@
+---
+document_id: DOC-SCH-003
+title: School Timings, Attendance Rules, and Leave Policy
+category: Operations & Attendance
+department: Academic Administration
+academic_year: 2026-2027
+effective_date: 2026-04-01
+target_audience: Students, Parents, Faculty
+---
+
+# SCHOOL TIMINGS, ATTENDANCE RULES, AND LEAVE POLICY
+
+## 1. Seasonal School Timings
+The school follows two seasonal schedules to ensure student comfort:
+- **Summer Schedule (April 1 to October 31):**
+  - Reporting Time: 7:45 AM
+  - Morning Assembly: 7:50 AM to 8:05 AM
+  - Gate Closure: 7:55 AM sharp
+  - Dismissal (Grades 1–5): 1:15 PM
+  - Dismissal (Grades 6–12): 1:45 PM
+- **Winter Schedule (November 1 to March 31):**
+  - Reporting Time: 8:15 AM
+  - Morning Assembly: 8:20 AM to 8:35 AM
+  - Gate Closure: 8:25 AM sharp
+  - Dismissal (Grades 1–5): 1:45 PM
+  - Dismissal (Grades 6–12): 2:15 PM
+
+## 2. Late Arrival Policy
+- Students arriving after gate closure will be marked "Late" in the attendance register.
+- Three late arrivals in a single calendar month will result in a written warning to parents. On the fourth late arrival, the student will be sent back home with the parent/guardian.
+
+## 3. Mandatory Attendance Requirements
+- A minimum of **75% attendance** across the academic session is compulsory for every student to be eligible to appear in the Final Term-End Examinations.
+- Students with attendance below 75% will only be considered for examination eligibility in cases of severe hospitalization, supported by complete hospital discharge summaries and approved by the Principal.
+
+## 4. Leave Application Procedure
+- **Planned Leave (1–2 Days):** Parents must submit a prior leave request via the Parent Mobile App or the Leave Record section of the Student Almanac at least 24 hours in advance.
+- **Medical Leave (3 or More Days):** A formal application accompanied by a prescription and fitness certificate from a registered medical practitioner (MBBS or above) must be submitted to the Class Teacher on the day the student resumes school.
+- **Uninformed Absence:** Continuous absence for 10 working days without written intimation will result in automatic removal of the student's name from the school register.
+
+## 5. Early Dispersal and Parent-Teacher Meetings (PTM)
+- **Early Dispersal:** Students are not permitted to leave school early during working hours unless collected in person by a parent/authorized guardian carrying the Parent Escort Card, following approval from the Wing Coordinator.
+- **Parent-Teacher Meetings (PTM):** Conducted on the last Saturday of every month from 9:00 AM to 12:00 PM. Attendance by at least one parent is mandatory to review academic progress.

@@ -1,0 +1,36 @@
+---
+document_id: DOC-SCH-005
+title: School Bus Transport and Central Library Regulations
+category: Campus Facilities
+department: Transport & Library Services
+academic_year: 2026-2027
+effective_date: 2026-04-01
+target_audience: Students, Parents, Bus Staff
+---
+
+# SCHOOL BUS TRANSPORT AND CENTRAL LIBRARY REGULATIONS
+
+## 1. School Transport Service and Fee Slabs
+The school operates GPS-enabled, CCTV-monitored buses staffed with a trained driver, conductor, and a female bus attendant on every route. Transport fees are billed quarterly along with tuition fees:
+- **Zone A (Up to 5 km from campus):** ₹1,800 per month (₹5,400 per quarter).
+- **Zone B (5.1 km to 12 km from campus):** ₹2,400 per month (₹7,200 per quarter).
+- **Zone C (12.1 km to 20 km from campus):** ₹3,000 per month (₹9,000 per quarter).
+
+## 2. Bus Boarding, Safety, and Route Rules
+- **Stop Arrival:** Students must reach their designated pickup stop at least 5 minutes prior to the scheduled arrival time. Buses will not wait for latecomers.
+- **Discontinuation / Route Change:** Transport facility is opted for a full term. Parents wishing to discontinue or change a bus stop must submit a written application to the Transport In-Charge at least 15 days before the start of a new quarter.
+- **Bus Discipline:** Students must remain seated with seatbelts fastened while the bus is in motion. Leaning out of windows, shouting, or eating inside the bus is prohibited.
+
+## 3. Central Library Timings and Membership
+- **Operating Hours:** 8:00 AM to 3:30 PM on all working days (Monday to Saturday).
+- **Membership:** All enrolled students and faculty members are automatic members of the Central Library using their School ID card barcode.
+
+## 4. Book Borrowing Limits and Loan Duration
+- **Grades 1 to 5:** Maximum of 1 fiction/story book for 7 days.
+- **Grades 6 to 10:** Maximum of 2 books (1 academic reference + 1 general/fiction) for 14 days.
+- **Grades 11 & 12:** Maximum of 3 books for 14 days, plus access to the competitive exam reference section.
+- **Non-Issuable Items:** Encyclopedias, dictionaries, current periodicals, and rare reference volumes are for in-library reading only.
+
+## 5. Overdue Fines and Damaged Books
+- **Late Return Fine:** ₹5 per book per working day after the due date. Borrowing privileges are temporarily suspended until overdue books are returned and fines are cleared.
+- **Lost or Damaged Books:** Highlighting, underlining, tearing pages, or losing a library book requires the student to either replace the book with a brand-new copy of the exact same edition or pay the full current market price plus a ₹100 processing fee.
